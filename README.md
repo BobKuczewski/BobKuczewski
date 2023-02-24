@@ -1,4 +1,6 @@
-### CardIAC-B: https://bobkuczewski.github.io/CardIAC-B/
+### Projects:
+
+## [Virtual Cardboard Computer](https://bobkuczewski.github.io/CardIAC-B/)
 
 <!--
 **BobKuczewski/BobKuczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
