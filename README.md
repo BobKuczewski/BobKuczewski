@@ -1,7 +1,8 @@
-### Projects:
+### Live Pages:
 
 ## [Virtual Cardboard Computer](https://bobkuczewski.github.io/CardIAC-B/)
 
+## [RCA 1802 Simulator (Javascript)](https://bobkuczewski.github.io/RCA1802SimJS/)
 <!--
 **BobKuczewski/BobKuczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
