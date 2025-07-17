@@ -2,7 +2,7 @@
 
 ### [RCA 1802 Simulator (Javascript)](https://bobkuczewski.github.io/RCA1802SimJS/)
 
-### [CARDIACB Virtual Cardboard Computer](https://bobkuczewski.github.io/CardIAC-B/)
+### [CardIAC-B Virtual Cardboard Computer](https://bobkuczewski.github.io/CardIAC-B/)
 
 ### [CHIP-8 Assembler/Disassembler](https://bobkuczewski.github.io/CHIP8/)
 <!--
