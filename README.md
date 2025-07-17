@@ -2,7 +2,9 @@
 
 ### [RCA 1802 Simulator (Javascript)](https://bobkuczewski.github.io/RCA1802SimJS/)
 
-### [Virtual Cardboard Computer](https://bobkuczewski.github.io/CardIAC-B/)
+### [CARDIACB Virtual Cardboard Computer](https://bobkuczewski.github.io/CardIAC-B/)
+
+### [CHIP-8 Assembler/Disassembler](https://bobkuczewski.github.io/CHIP8/)
 <!--
 **BobKuczewski/BobKuczewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
