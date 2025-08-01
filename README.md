@@ -12,10 +12,10 @@ CardIAC-B simulates the original cardboard version of the CARDIAC computer. It u
 
 The CHIP-8 tools support learning and using the CHIP-8 language in a simulated environment.
 
-## [Voting Methods Exploration](https://bobkuczewski.github.io/Voting/Voting.html)
+### [Voting Methods Exploration](https://bobkuczewski.github.io/Voting/Voting.html)
 
 A program to explore the differences between various voting methods (Plurality, Range, Instant Runoff, and Condorcet).
 
-## [RPN Draw](https://bobkuczewski.github.io/RPNDraw/)
+### [RPN Draw](https://bobkuczewski.github.io/RPNDraw/)
 
 A simple RPN programming environment with graphics commands.
