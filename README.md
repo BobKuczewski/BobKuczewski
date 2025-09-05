@@ -24,6 +24,6 @@ A program to explore the differences between various voting methods (Plurality, 
 
 A simple RPN programming environment with graphics commands.
 
-### [RPN Draw](https://bobkuczewski.github.io/Mike-Riley-ElfEmulation/)
+### [Mike Riley's Elf-Emulation](https://bobkuczewski.github.io/Mike-Riley-ElfEmulation/)
 
 A clone of Mike Riley's Elf-Emulation.com web site.
