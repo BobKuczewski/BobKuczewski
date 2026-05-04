@@ -31,3 +31,7 @@ Color exploration (currently just color difference).
 ### [Mike Riley's Elf-Emulation](https://bobkuczewski.github.io/Mike-Riley-ElfEmulation/)
 
 A clone of Mike Riley's Elf-Emulation.com web site.
+
+### [Bob Armstrong's SpareTimeGizmos](https://bobkuczewski.github.io/SpareTimeGizmosSite/)
+
+A clone of Bob Armstrong's SpareTimeGizmos.com web site.
